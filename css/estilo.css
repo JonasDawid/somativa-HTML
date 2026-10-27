@@ -1,6 +1,24 @@
 .cabecalho{
 font-family: Georgia, 'Times New Roman', Times, serif;color: rgb(141, 217, 247);
-background-color: rgb(32, 56, 107);
+background-color: midnightblue;
 font-size: larger;
 flex: 35%;
+}
+
+.inicio{
+    background-color: midnightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+.banner{
+    background-color: rgb(31, 31, 255);
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}   
+
+.banner-imagem{
+    background-color: cornflowerblue;
 }
