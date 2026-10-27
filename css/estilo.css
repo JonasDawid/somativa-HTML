@@ -1,0 +1,6 @@
+.cabecalho{
+font-family: Georgia, 'Times New Roman', Times, serif;color: rgb(141, 217, 247);
+background-color: rgb(32, 56, 107);
+font-size: larger;
+flex: 35%;
+}
